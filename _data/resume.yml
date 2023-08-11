@@ -56,7 +56,7 @@ main: #简历主要内容，
   - title: Devops
     detail: 熟练掌握Jenkins,熟悉CI/CD流程
   - title: 云原生
-    detail: 熟练掌握Kubernetes 以及周边生态/ServiceMesh
+    detail: 熟练掌握Kubernetes 以及周边生态/ServiceMesh1
 
 - type: projects
   name: 项目
