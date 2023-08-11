@@ -64,9 +64,13 @@ main: #简历主要内容，
     detail: 熟练掌握Spring,Spring MVC,Spring Boot,Mybatis-Plus,JPA,Spring Security,Junit等开发框架
   - title: 分布式
     detail: 熟练掌握RPC(Dubbo),分布式事务(Seata),配置中心(Nacos),分布式链路追踪(SkyWalking),分布式ID(UUID,Snowflake),消息队列(kafka),限流熔断(Sentinel)的使用
+  - title: Devops
+    detail: 熟练掌握Jenkins,熟悉CI/CD流程
+  - title: 云原生
+    detail: 熟练掌握Kubernetes 以及周边生态/ServiceMesh
 
 - type: experience
-  name: 经验
+  name: 工作经验
   content:
   - title: Java开发工程师(实习)
     sub: 上海廷桥信息科技有限公司
@@ -75,7 +79,7 @@ main: #简历主要内容，
 #    - 标签
     summary: 算法整理
     detail: SHA算法,对称加密算法等
-    open: open
+#    open: open
     #可以设置open默认展开
   - title: Java开发工程师
     sub: 武汉相数科技有限公司
@@ -83,20 +87,21 @@ main: #简历主要内容，
     tags:
 #    - tagname
     summary: 负责xx项目的研发
-    detail: 内容还没想好
+    detail: 使用 Sharding-JDBC 对 MySQL 数据库进行分库分表，优化千万级大表，单表数据量保持在 500w 以下。热门数据（如首页、热门博客）使用 Redis+Caffeine 两级缓存，解决了缓存击穿和穿透问题，查询速度毫秒级，QPS 30w+。使用 CompletableFuture 优化购物车查询模块，对获取用户信息、商品详情、优惠券信息等异步 RPC 调用进行编排，响应时间从 2s 降低 0.2s。
+    open: open
 
-- type: projects
-  name: 项目经验
-  content:
-  - title: sm领导驾驶舱项目
-    duration: 2022年07月 - 2023年01月
-    detail: 项目和工作介绍，项目总结.
-    sub: 维护者
-  - title: Project Name
-    summary: Projects' introduction or summary
-    detail:
-      md: _data/demo.md
-    sub: Creator and maintainer.
+#- type: projects
+#  name: 项目经验
+#  content:
+#  - title: sm领导驾驶舱项目
+#    duration: 2022年07月 - 2023年01月
+#    detail: 项目和工作介绍，项目总结.
+#    sub: 维护者
+#  - title: Project Name
+#    summary: Projects' introduction or summary
+#    detail:
+#      md: _data/demo.md
+#    sub: Creator and maintainer.
    #可继续添加更多内容
 
 #others 其他简略内容(列表)
