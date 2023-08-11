@@ -43,46 +43,53 @@ main: #简历主要内容，
 - type: 专业技能
   # name: "技能"
   content:
-  - title: 编程语言
+#  - title: 编程语言
 #    items: #itmems 可以小块的方式显示
 #    - 汉语
 #    - 语言2
 #    - 语言3
+#  - title: 123
+#    summary:
   - title: 计算机基础
-    summary: 熟练掌握计算机网络、数据结构和算法、操作系统
+    detail: 熟练掌握计算机网络、数据结构和算法、操作系统
   - title: Linux
     detail: 熟练使用Linux,有Linux下开发和部署项目的实际经验
   - title: Java
     detail: 熟练掌握Java基础、集合、并发、有过JVM排查问题和调优的经历
   - title: 开发工具
     detail: 熟练使用Maven、Git、IDEA、Docker等开发工具
-
+  - title: 数据库
+    detail: 熟练掌握MySQL数据库以及常见的优化手段,(索引SQL优化读写分离分库分表),Redis实战经验丰富,搭建过redis集群,熟悉MongoDB
+  - title: 框架
+    detail: 熟练掌握Spring,Spring MVC,Spring Boot,Mybatis-Plus,JPA,Spring Security,Junit等开发框架
+  - title: 分布式
+    detail: 熟练掌握RPC(Dubbo),分布式事务(Seata),配置中心(Nacos),分布式链路追踪(SkyWalking),分布式ID(UUID,Snowflake),消息队列(kafka),限流熔断(Sentinel)的使用
 
 - type: experience
   name: 经验
   content:
-  - title: 职位
-    sub: 某某公司
-    duration: "xxxx年xx月 - yyyy年yy月"
+  - title: Java开发工程师(实习)
+    sub: 上海廷桥信息科技有限公司
+    duration: "2021年11月 - 2022年03月"
     tags:
-    - 标签
-    summary: 职务或者工作总结(自动折叠)
-    detail: 同时包含 summary和detail在Chrome，Safari(包括IOS)，Android和新版Firefox等会自动折叠，不支持折叠的浏览器和展开后表现一致
-    # open: open
+#    - 标签
+    summary: 算法整理
+    detail: SHA算法,对称加密算法等
+    open: open
     #可以设置open默认展开
-  - title: Job Title
-    sub: Your 2nd, Inc.
-    duration: Apr 2013 - Mar 2016
+  - title: Java开发工程师
+    sub: 武汉相数科技有限公司
+    duration: "2022年07月 - 至今"
     tags:
-    - tagname
-    summary: Summary your job or work. (Collapse)
-    detail: Details can be collapsed in Chrome Safari, Firefox, Opera and so on. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+#    - tagname
+    summary: 负责xx项目的研发
+    detail: 内容还没想好
 
 - type: projects
-  name: Projects
+  name: 项目经验
   content:
-  - title: 项目名称
-    duration: xxxx年xx月 - yyyy年yy月
+  - title: sm领导驾驶舱项目
+    duration: 2022年07月 - 2023年01月
     detail: 项目和工作介绍，项目总结.
     sub: 维护者
   - title: Project Name
