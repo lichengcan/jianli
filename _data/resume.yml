@@ -5,7 +5,7 @@ title: "李承灿的简历"
 lang: "zh" #语言设置 zh表示中文 en 表示英语
 name: "李承灿"
 jobtitle: "Java开发工程师" #可空不显示
-photo: "assets/img/photo.jpg" #照片可空，不显示
+#photo: "assets/img/photo.jpg" #照片可空，不显示
 
 #联系方式
 contact: #联系方式连接等3~5行
