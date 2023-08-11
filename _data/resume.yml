@@ -39,8 +39,8 @@ main: #简历主要内容，
 - type: kills
   name: '专业技能'
   content:
-  - title: "计算机基础:"
-    text: "熟练掌握计算机网络、数据结构和算法、操作系统"
+  - title: "计算机基础"
+    detail: "熟练掌握计算机网络、数据结构和算法、操作系统"
   - title: Linux
     detail: 熟练使用Linux,有Linux下开发和部署项目的实际经验
   - title: Java
@@ -67,11 +67,12 @@ main: #简历主要内容，
       md: _data/ldjsc.md
     sub: 开发者
     
-  - title: Project Name
+  - title: 碳服务平台
     summary: Projects' introduction or summary
     detail:
       md: _data/mrv.md
-    sub: Creator and maintainer.
+    sub: 开发者
+    
 #others 其他简略内容(列表)
 others: #其他列表显示
 - type: others #ID可以为空
