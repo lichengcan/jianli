@@ -87,7 +87,10 @@ main: #简历主要内容，
     tags:
 #    - tagname
     summary: 负责xx项目的研发
-    detail: 使用 Sharding-JDBC 对 MySQL 数据库进行分库分表，优化千万级大表，单表数据量保持在 500w 以下。热门数据（如首页、热门博客）使用 Redis+Caffeine 两级缓存，解决了缓存击穿和穿透问题，查询速度毫秒级，QPS 30w+。使用 CompletableFuture 优化购物车查询模块，对获取用户信息、商品详情、优惠券信息等异步 RPC 调用进行编排，响应时间从 2s 降低 0.2s。
+    list:
+      - 使用 Sharding-JDBC 对 MySQL 数据库进行分库分表，优化千万级大表，单表数据量保持在 500w 以下。
+      - 热门数据（如首页、热门博客）使用 Redis+Caffeine 两级缓存，解决了缓存击穿和穿透问题，查询速度毫秒级，QPS 30w+。
+      - 使用 CompletableFuture 优化购物车查询模块，对获取用户信息、商品详情、优惠券信息等异步 RPC 调用进行编排，响应时间从 2s 降低 0.2s。
     open: open
 
 #- type: projects
