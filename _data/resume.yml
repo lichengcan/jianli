@@ -87,8 +87,8 @@ main: #简历主要内容，
       - 使用 CompletableFuture 优化购物车查询模块，对获取用户信息、商品详情、优惠券信息等异步 RPC 调用进行编排，响应时间从 2s 降低 0.2s。
     sub: 武汉相数科技有限公司
     duration: "2022年07月 - 至今"
-    tags:
-    summary: 负责xx项目的研发
+    # tags:
+    # summary: 负责xx项目的研发
     open: open
 
 #others 其他简略内容(列表)
@@ -121,7 +121,7 @@ footer: #脚注多组
   - text: "简历脚注"
   #   href: '/'
   - text: "Made with &hearts; by lcc"
-    href: "https://lichengcan.github.com/"
+    href: "https://github.com/lichengcan"
 
 #页面额外js脚本，如xx统计
 scripts:
