@@ -59,12 +59,12 @@ main: #简历主要内容，
     detail: 熟练掌握Kubernetes 以及周边生态/ServiceMesh
 
 - type: experience
-  name: 工作经验
+  name: '工作经验'
   content:
-  - title: Java开发工程师
-    sub: 武汉相数科技有限公司
-    duration: "2022年07月 - 至今"
-    open: open
+  - title: "Java开发工程师"
+    # sub: 武汉相数科技有限公司
+    # duration: "2022年07月 - 至今"
+    # open: open
     list:
     - 独立开发复杂的模块、需求设计、数据库设计、接口的开发、测试、部署
     - 使用 Sharding-JDBC 对 MySQL 数据库进行分库分表，优化千万级大表，单表数据量保持在 500w 以下。
