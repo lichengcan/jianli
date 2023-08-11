@@ -36,11 +36,11 @@ main: #简历主要内容，
     sub: 本科
     detail: 湖南信息学院 本科, 软件工程 2018.09 - 2022.06
     
-- type: zhuanye
+- type: others
   name: '专业技能'
   content:
-  - title: 计算机基础
-    text: 熟练掌握计算机网络、数据结构和算法、操作系统
+  - title: "计算机基础"
+    text: "熟练掌握计算机网络、数据结构和算法、操作系统"
   - title: Linux
     detail: 熟练使用Linux,有Linux下开发和部署项目的实际经验
   - title: Java
