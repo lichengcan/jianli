@@ -51,7 +51,7 @@ main: #简历主要内容，
 #  - title: 123
 #    summary:
   - title: 计算机基础
-    detail: 熟练掌握计算机网络、数据结构和算法、操作系统
+    text: 熟练掌握计算机网络、数据结构和算法、操作系统
   - title: Linux
     detail: 熟练使用Linux,有Linux下开发和部署项目的实际经验
   - title: Java
@@ -80,12 +80,10 @@ main: #简历主要内容，
     summary: 算法整理
     detail: SHA算法,对称加密算法等
 #    open: open
-    #可以设置open默认展开
   - title: Java开发工程师
     sub: 武汉相数科技有限公司
     duration: "2022年07月 - 至今"
     tags:
-#    - tagname
     summary: 负责xx项目的研发
     list:
       - 使用 Sharding-JDBC 对 MySQL 数据库进行分库分表，优化千万级大表，单表数据量保持在 500w 以下。
