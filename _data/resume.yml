@@ -35,7 +35,7 @@ main: #简历主要内容，
     duration: "2018年9月 - 2022年"
     sub: 本科
     detail: 湖南信息学院 本科, 软件工程 2018.09 - 2022.06
-    
+
 - type: kills
   name: '专业技能'
   content:
@@ -63,16 +63,16 @@ main: #简历主要内容，
   content:
   - title: 领导驾驶舱项目
     duration: 2022年07月 - 0202年01月
-    detail: 完成领导驾驶舱网页端、APP端
+    detail: 完成领导驾驶舱网页端,APP端
       md: _data/ldjsc.md
     sub: 开发者
-    
+
   - title: 碳服务平台
     summary: Projects' introduction or summary
     detail:
       md: _data/mrv.md
     sub: 开发者
-    
+
 #others 其他简略内容(列表)
 others: #其他列表显示
 - type: others #ID可以为空
