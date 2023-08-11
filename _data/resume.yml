@@ -40,16 +40,23 @@ main: #简历主要内容，
 #    sub: Ut enim ad minim veniam
 #    detail: Master Bachelor of Computer Science & Technology.
 
-- type: skills
+- type: 专业技能
   # name: "技能"
   content:
   - title: 编程语言
-    items: #itmems 可以小块的方式显示
-    - 汉语
-    - 语言2
-    - 语言3
-  - title: Skill Group
-    summary: Consectetur, Adipiscing, Elit
+#    items: #itmems 可以小块的方式显示
+#    - 汉语
+#    - 语言2
+#    - 语言3
+  - title: 计算机基础
+    summary: 熟练掌握计算机网络、数据结构和算法、操作系统
+  - title: Linux
+    detail: 熟练使用Linux,有Linux下开发和部署项目的实际经验
+  - title: Java
+    detail: 熟练掌握Java基础、集合、并发、有过JVM排查问题和调优的经历
+  - title: 开发工具
+    detail: 熟练使用Maven、Git、IDEA、Docker等开发工具
+
 
 - type: experience
   name: 经验
