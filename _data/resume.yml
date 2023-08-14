@@ -57,21 +57,14 @@ main: #简历主要内容，
     detail: 熟练掌握Jenkins,熟悉CI/CD流程
   - title: 云原生
     detail: 熟练掌握Kubernetes 以及周边生态/ServiceMesh1
-
+    
 - type: projects
-  name: 项目
+  name: Projects
   content:
-  - title: 领导驾驶舱项目
-    duration: 2022年07月 - 0202年01月
-    detail: 完成领导驾驶舱网页端,APP端
-      md: _data/ldjsc.md
+  - title: mrv
+    duration: 2022年07月 - 2023年01月
+    detail: 主力开发
     sub: 开发者
-
-#   - title: 碳服务平台
-#     summary: Projects' introduction or summary
-#     detail:
-#       md: _data/mrv.md
-#     sub: 开发者
 
 #others 其他简略内容(列表)
 others: #其他列表显示
