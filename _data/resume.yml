@@ -58,14 +58,14 @@ main: #简历主要内容，
   - title: 云原生
     detail: 熟练掌握Kubernetes 以及周边生态/ServiceMesh1
 
-# - type: projects
-#   name: 项目
-#   content:
-#   - title: 领导驾驶舱项目
-#     duration: 2022年07月 - 0202年01月
-#     detail: 完成领导驾驶舱网页端,APP端
-#       md: _data/ldjsc.md
-#     sub: 开发者
+- type: projects
+  name: 项目
+  content:
+  - title: 领导驾驶舱项目
+    duration: 2022年07月 - 0202年01月
+    detail: 完成领导驾驶舱网页端,APP端
+      md: _data/ldjsc.md
+    sub: 开发者
 
 #   - title: 碳服务平台
 #     summary: Projects' introduction or summary
