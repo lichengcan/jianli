@@ -59,7 +59,7 @@ main: #简历主要内容，
     detail: 熟练掌握Kubernetes 以及周边生态/ServiceMesh1
     
 - type: projects
-  name: 工作经验
+  name: 项目经验
   content:
   - title: mrv
     duration: 2022年07月 - 2023年01月
