@@ -63,7 +63,7 @@ main: #简历主要内容，
   content:
   - title: mrv
     duration: 2022年07月 - 2023年01月
-    detail: 主力开发
+    detail: CRUD打酱油
     sub: 开发者
 
 #others 其他简略内容(列表)
