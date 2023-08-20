@@ -64,13 +64,9 @@ main: #简历主要内容，
   - title: mrv
     duration: 2022年07月 - 2023年01月
     detail: CRUD打酱油
-      md: _data/mrv.md
-    sub: 开发者
-  - title: Project Name
-    summary: Projects' introduction or summary
-    detail:
       md: _data/demo.md
-    sub: Creator and maintainer.
+    sub: 开发者
+
     
 #others 其他简略内容(列表)
 others: #其他列表显示
