@@ -9,9 +9,10 @@ jobtitle: "Java开发工程师" #可空不显示
 
 #联系方式
 contact: #联系方式连接等3~5行
-- text: "929825769@qq.com" #文本内容
-  href: 'mailto:youremail@example.com' #链接，无链接则空
-  icon: 'icons/email.svg' #图标 svg文件
+# - text: "929825769@qq.com" #文本内容
+#   href: 'mailto:youremail@example.com' #链接，无链接则空
+#   icon: 'icons/email.svg' #图标 svg文件
+- text: 出生日期: 1999年02月28日
 - text: "13237427206"
   href: 'tel:1234567890'
   icon: 'icons/phone.svg'
