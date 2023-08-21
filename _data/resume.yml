@@ -50,9 +50,9 @@ main: #简历主要内容，
   - title: 开发工具
     detail: 熟练使用Maven、Git、IDEA、Docker等开发工具
   - title: 数据库
-    detail: 熟练掌握MySQL数据库以及常见的优化手段, (索引SQL优化读写分离分库分表), 熟悉Redis,MongoDB的使用
+    detail: 熟练使用MySQL数据库以及常见的优化手段, (索引SQL优化读写分离分库分表), 掌握Redis,MongoDB的使用
   - title: 框架
-    detail: 熟练掌握Spring, Spring MVC, Spring Boot, Mybatis-Plus, JPA,Spring Security, Junit等开发框架
+    detail: 熟练使用Spring, Spring MVC, Spring Boot, Mybatis-Plus, JPA,Spring Security, Junit等开发框架
   # - title: 分布式
   #   detail: 分布式事务(Seata), 配置中心(Nacos), 分布式链路追踪(SkyWalking), 分布式ID(UUID,Snowflake), 消息队列(kafka), 限流熔断(Sentinel)的使用
   # - title: Devops
