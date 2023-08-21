@@ -48,7 +48,6 @@ main: #简历主要内容，
   name: Projects
   content:
   - title: 项目名称
-    duration: xxxx年xx月 - yyyy年yy月
     summary: Projects' introduction or summary
     detail: 项目和工作介绍，项目总结.
       md: _data/demo.md
