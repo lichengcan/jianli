@@ -41,20 +41,20 @@ main: #简历主要内容，
 - type: kills
   name: '专业技能'
   content:
-  - title: "计算机基础"
-    detail: "熟练掌握计算机网络、数据结构和算法、操作系统"
-  - title: Linux
-    detail: 熟练使用Linux,有Linux下开发和部署项目的实际经验
+  # - title: "计算机基础"
+  #   detail: "熟练掌握计算机网络、数据结构和算法、操作系统"
+  # - title: Linux
+  #   detail: 熟练使用Linux,有Linux下开发和部署项目的实际经验
   - title: Java
     detail: 熟练掌握Java基础、集合、并发、有过JVM排查问题和调优的经历
   - title: 开发工具
     detail: 熟练使用Maven、Git、IDEA、Docker等开发工具
   - title: 数据库
-    detail: 熟练掌握MySQL数据库以及常见的优化手段,(索引SQL优化读写分离分库分表),Redis实战经验丰富,搭建过redis集群,熟悉MongoDB
+    detail: 熟练掌握MySQL数据库以及常见的优化手段, (索引SQL优化读写分离分库分表), Redis实战经验丰富,搭建过redis集群, 熟悉MongoDB
   - title: 框架
-    detail: 熟练掌握Spring,Spring MVC,Spring Boot,Mybatis-Plus,JPA,Spring Security,Junit等开发框架
+    detail: 熟练掌握Spring, Spring MVC, Spring Boot, Mybatis-Plus, JPA,Spring Security, Junit等开发框架
   - title: 分布式
-    detail: 熟练掌握RPC(Dubbo),分布式事务(Seata),配置中心(Nacos),分布式链路追踪(SkyWalking),分布式ID(UUID,Snowflake),消息队列(kafka),限流熔断(Sentinel)的使用
+    detail: 熟练掌握RPC(Dubbo), 分布式事务(Seata), 配置中心(Nacos), 分布式链路追踪(SkyWalking), 分布式ID(UUID,Snowflake), 消息队列(kafka), 限流熔断(Sentinel)的使用
   # - title: Devops
   #   detail: 熟练掌握Jenkins,熟悉CI/CD流程
   # - title: 云原生
