@@ -55,10 +55,10 @@ main: #简历主要内容，
     detail: 熟练掌握Spring,Spring MVC,Spring Boot,Mybatis-Plus,JPA,Spring Security,Junit等开发框架
   - title: 分布式
     detail: 熟练掌握RPC(Dubbo),分布式事务(Seata),配置中心(Nacos),分布式链路追踪(SkyWalking),分布式ID(UUID,Snowflake),消息队列(kafka),限流熔断(Sentinel)的使用
-  - title: Devops
-    detail: 熟练掌握Jenkins,熟悉CI/CD流程
-  - title: 云原生
-    detail: 熟练掌握Kubernetes 以及周边生态/ServiceMesh1
+  # - title: Devops
+  #   detail: 熟练掌握Jenkins,熟悉CI/CD流程
+  # - title: 云原生
+  #   detail: 熟练掌握Kubernetes 以及周边生态/ServiceMesh1
     
 - type: projects
   name: Projects
@@ -75,22 +75,22 @@ main: #简历主要内容，
 
     
 #others 其他简略内容(列表)
-others: #其他列表显示
-- type: others #ID可以为空
-  name: '其他'
-  content: #选择需要的格式
-  - 单行文字
-  - title: "加粗:"
-    text: "列表项二"
-  - title: "兴趣:"
-    items: #单行列表
-    - 睡觉
-    - 吃饭
-    - coding
-  - title: 列表
-    list:
-    - 第一项
-    - 第二项
+# others: #其他列表显示
+# - type: others #ID可以为空
+#   name: '其他'
+#   content: #选择需要的格式
+#   - 单行文字
+#   - title: "加粗:"
+#     text: "列表项二"
+#   - title: "兴趣:"
+#     items: #单行列表
+#     - 睡觉
+#     - 吃饭
+#     - coding
+#   - title: 列表
+#     list:
+#     - 第一项
+#     - 第二项
 #- type:
 #  name: '其他'
 #  content: #选择需要的格式
