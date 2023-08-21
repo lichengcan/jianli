@@ -65,13 +65,15 @@ main: #简历主要内容，
   content:
   - title: 项目名称
     duration: xxxx年xx月 - yyyy年yy月
-    detail: 项目和工作介绍，项目总结.
-    sub: 维护者
-  - title: Project Name
     summary: Projects' introduction or summary
-    detail:
+    detail: 项目和工作介绍，项目总结.
       md: _data/demo.md
-    sub: Creator and maintainer.
+    sub: 维护者
+  # - title: Project Name
+  #   summary: Projects' introduction or summary
+  #   detail:
+  #     md: _data/demo.md
+  #   sub: Creator and maintainer.
 
     
 #others 其他简略内容(列表)
